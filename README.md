@@ -9,3 +9,6 @@ Crear entorno virtual:
 
 Instalar los paquetes necesarios:
 ### `pip install -r requirements.txt`
+
+
+sep, me tocó copiar lo hecho de otro lugar porque lo eliminé sin querer y me dió pereza volver hacer todo
