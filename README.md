@@ -4,8 +4,8 @@ REST API creada en Django REST Framework (DRF) donde se usa el protocolo HTTP ju
 
 <hr/>
 
-Primero, crear un entorno virtual:
+Crear entorno virtual:
 ### `python -m virtualenv env`
 
-Para instalar los paquetes necesarios:
+Instalar los paquetes necesarios:
 ### `pip install -r requirements.txt`
